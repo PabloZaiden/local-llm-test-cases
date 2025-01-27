@@ -1,6 +1,7 @@
 # Local LLM test cases
 
 This is a tool used to evaluate responses from local LLMs while invoking OpenAI-style tools.
+A local webserver compatible with OpenAI's API is required to run this tool. Examples of such servers include [LM Studio](https://lmstudio.ai) and [Ollama](https://ollama.com)
 
 ## Usage
 
